@@ -1,0 +1,18 @@
+
+[theme]
+base = "light"
+primaryColor = "#128569"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#182B39"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#192938"
+secondaryBackgroundColor = "#263C4B"
+textColor = "#F3F7FA"
+primaryColor = "#30C69A"
+
+[server]
+runOnSave = true
+fileWatcherType = "poll"
